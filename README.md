@@ -2,6 +2,8 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=270&section=header&text=GwanYong%20Kim&fontAlignY=38&fontSize=90&desc=Sammuelwoojae&descAlignY=61&animation=fadeIn)
 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSammuelwoojae&count_bg=%233C87C0&title_bg=%23213080&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+  
 # 📞 Contact
 _email_ : [seoullian@gmail.com](mailto:seoullian@gmail.com)
 
@@ -27,7 +29,7 @@ _email_ : [seoullian@gmail.com](mailto:seoullian@gmail.com)
 |:--:|:----:|:----:|
 |_2018.03 ~ now_|`대학`|[한국공학대학교](https://www.tukorea.ac.kr/tukorea/index.do)|
 |_2023.01 ~ now_|`졸업작품`|[GitRank](https://github.com/tukcom2023CD/DragonGuard-JinJin)|
-|_2023.03 ~ now_|`연합 개발 동아리`|[UMC](https://www.makeus.in/umc)|
+|_2023.03 ~ now_|`동아리`|[UMC](https://www.makeus.in/umc)|
 |_2023.04 ~ now_|`공모전`|[한이음](https://www.hanium.or.kr/portal/index.do)|
 |_2023.04 ~ 2023.06_|`스터디`|[iOS_App_PLUS](https://github.com/UMC-TUK/iOS_App_PLUS)|
 
