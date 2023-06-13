@@ -28,11 +28,12 @@ _email_ : [seoullian@gmail.com](mailto:seoullian@gmail.com)
 |Term|Category|Name|
 |:--:|:----:|:----:|
 |_2018.03 ~ now_|`대학`|[한국공학대학교](https://www.tukorea.ac.kr/tukorea/index.do)|
-|_2023.01 ~ now_|`졸업작품`|[GitRank](https://github.com/tukcom2023CD/DragonGuard-JinJin)|
+|_2022.07 ~ 2022.08_|`프로젝트`|[몬딱, 제주 v1](https://github.com/HJ39/DragonGuard_ComAppDesign)|
+|_2022.10 ~ 2022.11_|`프로젝트`|[몬딱, 제주 v2](https://github.com/HJ39/DragonGuard_ComAppDesign)|
+|_2023.01 ~ now_|`프로젝트`|[GitRank](https://github.com/tukcom2023CD/DragonGuard-JinJin)|
 |_2023.03 ~ now_|`동아리`|[UMC](https://www.makeus.in/umc)|
 |_2023.04 ~ now_|`공모전`|[한이음](https://www.hanium.or.kr/portal/index.do)|
 |_2023.04 ~ 2023.06_|`스터디`|[iOS_App_PLUS](https://github.com/UMC-TUK/iOS_App_PLUS)|
-
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer)
 
