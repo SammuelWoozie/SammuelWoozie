@@ -5,7 +5,7 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSammuelwoojae&count_bg=%233C87C0&title_bg=%23213080&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
   
 # 📞 Contact
-_email_ : [seoulian@gmail.com](mailto:seoullian@gmail.com)
+_email_ : [seoulㅣian@gmail.com](mailto:seoullian@gmail.com)
 
 # 📚 Skills
 ![Swift](https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
