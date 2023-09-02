@@ -28,7 +28,7 @@ _email_ : [seoulㅣian@gmail.com](mailto:seoullian@gmail.com)
 |Term|Category|Name|Description|
 |:--:|:----:|:----:|:----:|
 |_2018.03 ~ now_|`대학교`|[한국공학대학교](https://www.tukorea.ac.kr/tukorea/index.do)|2024.02 졸업 예정|
-|_2022.03 ~ 2022.06_|`프로젝트`|[Si-mil 시밀](https://github.com/Si-mil)|시흥시 버스정류장 밀집도 안내 앱(안드로이드)|
+|_2022.03 ~ 2022.06_|`프로젝트`|[시밀 Si-mil](https://github.com/Si-mil)|시흥시 버스정류장 밀집도 안내 앱(안드로이드)|
 |_2022.07 ~ 2022.08_|`프로젝트`|[몬딱, 제주 v1](https://github.com/tukcom2022SP/DragonGuard)|제주도 관광지 정보 안내 앱|
 |_2022.10 ~ 2022.11_|`프로젝트`|[몬딱, 제주 v2](https://github.com/HJ39/DragonGuard_ComAppDesign)|UiKit으로 수정한 v2프로젝트|
 |_2023.01 ~ now_|`프로젝트`|[GitRank](https://github.com/tukcom2023CD/DragonGuard-JinJin)|블록체인 기반 깃 랭크 시스템|
