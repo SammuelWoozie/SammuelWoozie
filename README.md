@@ -1,6 +1,6 @@
 <div align=center>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=270&section=header&text=Sammuel%20Woozie%Kim&fontAlignY=38&fontSize=90&desc=Sammuelwoojae&descAlignY=61&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=270&section=header&text=SammuelWoozie&fontAlignY=38&fontSize=90&desc=Sammuel%Woozie%Kim&descAlignY=61&animation=fadeIn)
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSammuelwoojae&count_bg=%233C87C0&title_bg=%23213080&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
   
